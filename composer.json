@@ -1,0 +1,17 @@
+{
+    "name": "reload/remen",
+    "description": "reshare",
+    "license": "UPL-1.0",
+    "autoload": {
+        "psr-4": {
+            "Reload\\Remen\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Reload8686",
+            "email": "reload8686@gmail.com"
+        }
+    ],
+    "require": {}
+}
